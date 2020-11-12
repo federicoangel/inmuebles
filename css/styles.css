@@ -1,0 +1,26 @@
+body{
+    font-family: 'Kaushan Script', cursive;
+}
+
+header .banner{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+header .img-banner{
+    max-height: 500px;
+}
+
+header .banner .banner-title{
+    position: absolute;
+    top: 8rem;
+    right: 5rem;
+    font-size: 2.5rem;
+}
+
+header .banner .banner-title1{
+    position: absolute;
+    top: 11rem;
+    right: 5rem;
+    font-size: 2.8rem;
+}
